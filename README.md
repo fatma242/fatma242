@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fatma Essam Elden</h1>
-<h3 align="center">Senior Software Engineering Student from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Fatma Essam </h1>
+<h3 align="center">Software Engineer and graduate from the Faculty of Computers and Artificial Intelligence at Cairo University."</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
 
 - 📫 How to reach me **fatmaessam395@gmail.com**
